@@ -1,0 +1,15 @@
+vkbottle
+pyQiwiP2P
+vk
+vk_api
+tortoise-orm
+py-cpuinfo
+psutil
+db-sqlite3
+loguru
+speedtest-cli
+yoomoney
+yandex-weather-api
+
+
+
